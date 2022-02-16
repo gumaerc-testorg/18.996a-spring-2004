@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-996a-simplicity-theory-spring-2004/59454d75e029160c25d283d9d6728a8d_asign7_pg34_comp.pdf
+file: /media/courses/18-996a-simplicity-theory-spring-2004/59454d75e029160c25d283d9d6728a8d_asign7_pg34_comp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: asign7_pg34_comp.pdf
 uid: 59454d75-e029-160c-25d2-83d9d6728a8d
