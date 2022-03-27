@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 49f37188-a0dc-dbbe-e2ab-8f7005a009ec
 resourcetype: Document
 title: asign7_pg27_comp.pdf
 uid: 482e37dd-34fc-f0f2-790d-8452d7418cdc

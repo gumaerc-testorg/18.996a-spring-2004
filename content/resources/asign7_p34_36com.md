@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 49f37188-a0dc-dbbe-e2ab-8f7005a009ec
 resourcetype: Document
 title: asign7_p34_36com.pdf
 uid: 32573ab2-f73a-d62f-fdd6-1f8d3c605c39

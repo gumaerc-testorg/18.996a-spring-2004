@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 49f37188-a0dc-dbbe-e2ab-8f7005a009ec
 resourcetype: Document
 title: assign10_compac.pdf
 uid: ccd4a449-113f-719c-06e4-2dec4d6cc934
