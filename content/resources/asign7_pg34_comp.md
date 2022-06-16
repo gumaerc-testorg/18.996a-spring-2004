@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996a-simplicity-theory-spring-2004/59454d75e029160c25d283d9d6728a8d_asign7_pg34_comp.pdf
+file: /courses/18-996a-simplicity-theory-spring-2004/59454d75e029160c25d283d9d6728a8d_asign7_pg34_comp.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
