@@ -5,6 +5,7 @@ file: /courses/18-996a-simplicity-theory-spring-2004/9ce05253fea8e33116af9017827
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: asign5_ocw910.pdf
 uid: 9ce05253-fea8-e331-16af-90178275d116
 ---
 Handwritten solution to assigned problems.
-

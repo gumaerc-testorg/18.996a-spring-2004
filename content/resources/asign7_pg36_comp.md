@@ -5,6 +5,7 @@ file: /courses/18-996a-simplicity-theory-spring-2004/c7c7097ec430dbff862c95b55a3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

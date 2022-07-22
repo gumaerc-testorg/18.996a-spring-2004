@@ -6,6 +6,7 @@ file: /courses/18-996a-simplicity-theory-spring-2004/08acacab78a9b5baf29abaf1019
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec_2.pdf
 uid: 08acacab-78a9-b5ba-f29a-baf1019efb8c
 ---
 These handwritten lecture notes are provided courtesy Christina Goddard, a student in the class. Used with permission.
-
