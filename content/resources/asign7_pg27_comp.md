@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996a-simplicity-theory-spring-2004/482e37dd34fcf0f2790d8452d7418cdc_asign7_pg27_comp.pdf
+file_size: 12482
 file_type: application/pdf
 learning_resource_types:
 - Assignments

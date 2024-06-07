@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten solution to assigned problems.
 file: /courses/18-996a-simplicity-theory-spring-2004/297f4572f1c84a4fff06700c046b5b7c_asign2_2_17v1.pdf
+file_size: 11835
 file_type: application/pdf
 learning_resource_types:
 - Assignments
