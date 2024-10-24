@@ -2,7 +2,7 @@
 content_type: resource
 description: These handwritten lecture notes are provided courtesy Christina Goddard,
   a student in the class. Used with permission.
-file: /courses/18-996a-simplicity-theory-spring-2004/2ab4fa9aaf55f2914036a1ab9831baca_lec_8.pdf
+file: /ol-ocw-studio-app/courses/18-996a-simplicity-theory-spring-2004/2ab4fa9aaf55f2914036a1ab9831baca_lec_8.pdf
 file_size: 500481
 file_type: application/pdf
 learning_resource_types:
