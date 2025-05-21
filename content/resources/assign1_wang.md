@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten solution to assigned problems.
-file: /ol-ocw-studio-app/courses/18-996a-simplicity-theory-spring-2004/afd90463d35a646919e76bc9a1e186b8_assign1_wang.pdf
+file: /courses/18-996a-simplicity-theory-spring-2004/afd90463d35a646919e76bc9a1e186b8_assign1_wang.pdf
 file_size: 51725
 file_type: application/pdf
 learning_resource_types:
