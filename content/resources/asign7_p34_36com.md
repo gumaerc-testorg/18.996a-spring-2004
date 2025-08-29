@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-996a-simplicity-theory-spring-2004/32573ab2f73ad62ffdd61f8d3c605c39_asign7_p34_36com.pdf
+file: /ol-ocw-studio-app/courses/18-996a-simplicity-theory-spring-2004/32573ab2f73ad62ffdd61f8d3c605c39_asign7_p34_36com.pdf
 file_size: 65404
 file_type: application/pdf
 learning_resource_types:
